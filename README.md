@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Sushant 👋  
 
-<!--
-**sushant2076/sushant2076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer | Backend Enthusiast**  
 
-Here are some ideas to get you started:
+I enjoy designing and building **scalable backend systems**. With a foundation in **Java and Node.js**, I love solving real-world problems through clean code, automation, and system design.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🏢 Currently working as a **Software Developer at Air India**  
+- 🔧 Specializing in **Backend Development** & system scalability  
+- 🌱 Exploring **distributed systems, cloud-native apps, and performance optimization**  
+- 🤝 Open to collaborating on **backend-heavy projects & developer tools**  
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages:** Java, JavaScript/TypeScript, C++  
+- **Backend:** Node.js, Nest.js, Express.js  
+- **Frontend:** React.js, Next.js  
+- **DevOps & Tools:** Apache Kafka, Docker, Kubernetes, Git, CI/CD  
+- **Databases:** MySQL, PostgreSQL, MongoDB, Couchbase, CosmosDB
+
+---
+
+## 📫 Connect With Me  
+- 🌐 [GitHub](https://github.com/sushant2076)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sushant-nasare-996818203/)  
+
+---
+
+⭐️ *Always learning, always building.* 🚀
+

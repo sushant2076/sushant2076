@@ -18,7 +18,7 @@ I enjoy designing and building **scalable backend systems**. With a foundation i
 - **Languages:** Java, JavaScript/TypeScript, C++  
 - **Backend:** Node.js, Nest.js, Express.js  
 - **Frontend:** React.js, Next.js  
-- **DevOps & Tools:** Apache Kafka, Docker, Kubernetes, Git, CI/CD  
+- **DevOps & Tools:** Apache Kafka, Docker, Kubernetes, Azure, Git, CI/CD  
 - **Databases:** MySQL, PostgreSQL, MongoDB, Couchbase, CosmosDB
 
 ---
